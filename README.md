@@ -2,4 +2,4 @@
 
 Hello
 
-I have no idea what ime doing.
+I have no idea what im doing.
